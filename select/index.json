@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Mirror feat.斎藤宏介",
+  "base_artist": "家入レオ",
+  "createdAt": "2026-02-14T04:34:40.908400Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mirror feat. 斎藤宏介",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/pl_01_Mirror_feat._斎藤宏介_家入レオ.txt"
+    }
+  ]
+}
